@@ -4,7 +4,7 @@ export default function About() {
 
     return (
         <div className='about'>
-            <p className='about__text'>Passionate Front-End Product Developer specializing in creating exceptional web experiences. With expertise in HTML, CSS, JavaScript, PHP, and React, I design and develop responsive, interactive, and user-centered applications. Let’s collaborate to bring your digital vision to life with precision and creativity.</p>
+            <p className='about__text'>I’m a passionate front-end web developer with a solid foundation in HTML, CSS, JavaScript, React, and PHP. Driven by creativity and a love for problem-solving, I’m committed to crafting seamless, user-friendly interfaces. My recent training at Jax Code has equipped me with the skills to bring innovative ideas to life on the web. As someone who is adaptable, quick to learn, and always eager to grow, I’m excited to contribute to a dynamic team and help build exceptional digital experiences.</p>
             <div className="contact-info">
                 <div className="contact-item">
                     <i className="fa-solid fa-phone contact__icon"></i>
