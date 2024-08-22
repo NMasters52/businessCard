@@ -13,6 +13,8 @@ Simple and Clean UI: Focus on a minimalistic design to highlight essential infor
 Fast Loading: Utilizes Vite for efficient bundling and fast loading times.
 
 To run the project locally:
+
+
 ![image](https://github.com/user-attachments/assets/83593178-4dc6-4686-972e-0c795061b4a9)
 
 
