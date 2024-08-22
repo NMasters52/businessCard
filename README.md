@@ -1,7 +1,9 @@
 Personal Business Card
+
 This project was created as part of a React course assignment. The goal was to develop a static web page using React and Vite, and then deploy the application.
 
 Overview
+
 The Personal Business Card is a simple, static web application that showcases basic React concepts. It serves as a digital business card, providing an introduction and contact information. The project was built with the following key objectives:
 
 React and Vite Integration: Leverage the React library for building the user interface and Vite for fast development and optimized builds.
@@ -21,14 +23,17 @@ To run the project locally:
 
 
 Deployment
+
 The project was deployed using netlify. You can visit the live version at https://nmbusinesscard.netlify.app/.
 
 Technologies Used
+
 React: JavaScript library for building user interfaces.
 Vite: Next-generation frontend tool for fast and optimized builds.
 HTML5 & CSS3: Markup and styling.
 
 
 Future Enhancements
+
 Implement a dark mode toggle.
 Improve styling of photo and card layout.
